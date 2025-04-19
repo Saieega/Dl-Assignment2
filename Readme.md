@@ -104,29 +104,13 @@ Test Accuracy: 96.74%
 
 Sample Predictions
 
-Input (Latin)
+Input (Latin)    Target (Devanagari)   Predicted (Devanagari)
 
-Target (Devanagari)
+ankur             अंकुर                  अंकुर
 
-Predicted (Devanagari)
+sneha              स्नेहा                  स्नेहा
 
-ankur
-
-अंकुर
-
-अंकुर
-
-sneha
-
-स्नेहा
-
-स्नेहा
-
-ramesh
-
-रमेश
-
-रमेश
+ramesh             रमेश                  रमेश
 
 📚 Summary
 
@@ -140,5 +124,5 @@ Successfully predicts Devanagari transliteration for unseen Romanized Hindi word
 
 ✍️ Author
 
-Eega SaikumarFeel
-free to fork, star, or contribute!
+Eega Saikumar
+Feel free to fork, star, or contribute!
